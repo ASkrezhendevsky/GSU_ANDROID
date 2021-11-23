@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resvalues</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="tvTopText">Верхний текст</string>
+    <string name="btnTopText">Верхняя кнопка</string>
+    <string name="tvBottomText">Нижний текст</string>
+    <string name="btnBottomText">Нижняя кнопка</string>
+    <color name="llTopColor">#336699</color>
+    <color name="llBottomColor">#339966</color>
+
+</resources>
